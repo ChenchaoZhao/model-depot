@@ -1,5 +1,6 @@
 from setuptools import find_packages, setup
-from torchvision_extra import __version__
+
+from modeldepot import __version__
 
 # load readme
 with open("README.md", "r") as f:
